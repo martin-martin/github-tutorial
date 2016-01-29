@@ -19,7 +19,7 @@
   - Make sure you have at least 1 project on Github.
   - Look at a teammate's repo.
   - Star it.
-  - Leave an issue report about the documentation: 
+  - Leave an issue report about the documentation:
     - Do they have pictures that give you a good sense of what the project does?
     - Does the documentation explain the different methods and files in the projects?
     - Do their commit messages follow Udacity's style guide: https://udacity.github.io/git-styleguide/
@@ -31,14 +31,17 @@
 
 1. Which Nanodegree have you taken?
 
-  Android
+  Intro to Programming
+  Data Analyst
 
 2. Which Octocat is your favorite?
 
-  Baracktocat
+  Pusheencat
 
 3. What text editor do you use?
 
-  Android Studio and Sublime. Back in the day, Vim and Eclipse.
+  Sublime Text 3. Excited about Vim! :)
 
 4. What questions do you want to ask?
+
+  Oh! So many... So little time now... :/
